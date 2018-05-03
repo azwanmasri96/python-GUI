@@ -2,6 +2,7 @@ from tkinter import *
 import tkinter.messagebox as tkMessageBox
 import docx2txt
 
+# TEST
 
 def _on_click(event):
     textbox1.tag_config("n", foreground="red")
